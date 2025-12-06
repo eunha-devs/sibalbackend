@@ -14,7 +14,7 @@ def send(ip, ua):
             "title": "ㅇㅇ;",
             "color": 16711680,
             "fields": [
-                {"name": "IP", "value": ip, "inline": false},
+                {"name": "IP", "value": ip, "inline": False},
                 {"name": "User-Agent", "value": f"```{ua}```"}
             ],
             "timestamp": datetime.utcnow().isoformat()
