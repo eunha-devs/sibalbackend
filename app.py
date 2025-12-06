@@ -34,7 +34,7 @@ def root():
 <head>
     <meta property="og:title" content="?">
     <meta property="og:description" content="ㅄ">
-    <meta property="og:image" content="https://sibalgoa.onrender.com/pixel">
+    <meta property="og:image" content="https://whatthefuckgoa.onrender.com/pixel">
     <meta property="og:type" content="website">
 </head>
 <body><h1>로딩중...</h1></body>
